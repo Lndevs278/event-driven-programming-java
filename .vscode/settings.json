@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "week02-observer-pattern/activity1-weather-station",
+        "week09-async-javafx/src/main/java/com/example"
+    ]
+}
